@@ -1,0 +1,11 @@
+12/1/2023
+Project: AR-Number Game
+WH: 08
+-Created success and failure animations
+-worked on issues in previous code
+-recorded and created demos to test animations
+-shared build and demos with PM
+-code pushed to git 
+Git URL: https://github.com/augurs/AR-Number-tower-game
+
+6.69 -3.8 0.32
